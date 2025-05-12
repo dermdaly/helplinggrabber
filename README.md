@@ -13,8 +13,8 @@ A Python script that automates logging into the Helpling customer portal and dow
 
 1. **Clone the repository:**
 
-    git clone https://your.repo.url
-    cd helpling-invoice-downloader
+    git clone [https://github.com/dermdaly/helplinggrabber](https://github.com/dermdaly/helplinggrabber)
+    cd helplinggrabber
 
 2. **Create and activate a virtual environment:**
 
@@ -31,7 +31,7 @@ A Python script that automates logging into the Helpling customer portal and dow
 
 Run the script like this:
 
-    python download_invoices.py
+    python grabber.py
 
 1. Chrome will launch and navigate to the Helpling login page.
 2. Log in **manually**.
