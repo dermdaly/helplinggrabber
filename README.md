@@ -14,14 +14,15 @@ A Python script that automates logging into the Helpling customer portal and dow
 1. **Clone the repository:**
 
     git clone [https://github.com/dermdaly/helplinggrabber](https://github.com/dermdaly/helplinggrabber)
-    cd helplinggrabber
 
-2. **Create and activate a virtual environment:**
+   cd helplinggrabber
+
+3. **Create and activate a virtual environment:**
 
     python3 -m venv venv
     source venv/bin/activate
 
-3. **Install required packages:**
+4. **Install required packages:**
 
     pip install -r requirements.txt
 
