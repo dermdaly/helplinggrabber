@@ -63,4 +63,4 @@ If you add new packages during development:
 
 ## 📄 License
 
-MIT License (or any license you prefer).
+MIT License
